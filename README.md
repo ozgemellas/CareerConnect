@@ -16,7 +16,7 @@ Bu sistem sayesinde kullanıcılar doğru firmalara doğru içeriklerle başvuru
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 - Yapay zeka destekli başvuru mektubu üretimi (Llama 3.3 70B)
 - Otomatik ve güvenli e-posta gönderimi (SMTP SSL ile)
@@ -111,4 +111,4 @@ Ticari kullanım veya yeniden dağıtım için geliştiriciden izin alınması �
 
 ---
 
-# 🚀 CareerConnect ile kariyerine güçlü bir adım at!
+#  CareerConnect ile kariyerine güçlü bir adım at!
