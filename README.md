@@ -105,9 +105,7 @@ Kullanıcı Profili + Şirket Profili
 ---
 
 ## 📜 Lisans
-
-Bu proje yarışma amaçlı geliştirilmiş olup, açık kaynak olarak paylaşılabilir.  
-Ticari kullanım veya yeniden dağıtım için geliştiriciden izin alınması önerilir.
+MIT © Özge Mellaş 2025
 
 ---
 
