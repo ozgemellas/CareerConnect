@@ -1,4 +1,3 @@
-
 # CareerConnect 🚀
 
 AI-Powered Job Application Automation
