@@ -1,17 +1,17 @@
-# CareerConnect 🚀
+# CareerConnect 
 
 AI-Powered Job Application Automation
 
 ---
 
-## 📚 Proje Tanımı
+##  Proje Tanımı
 
 **CareerConnect**, yapay zeka destekli bir iş başvurusu otomasyon platformudur.  
 Kullanıcıların profiline ve şirketlerin odak alanlarına göre **kişiselleştirilmiş başvuru mektupları** oluşturur ve **otomatik e-posta gönderimi** gerçekleştirir.
 
 Bu sistem sayesinde kullanıcılar doğru firmalara doğru içeriklerle başvuru yaparak iş bulma şanslarını artırır, zaman tasarrufu sağlar ve başvuru süreçlerini profesyonel bir şekilde yönetir.
 
-🏆 **CareerConnect**, AI ve Otomasyon temalı yarışmalar için geliştirilmiştir.
+ **CareerConnect**, AI ve Otomasyon temalı yarışmalar için geliştirilmiştir.
 
 ---
 
@@ -25,7 +25,7 @@ Bu sistem sayesinde kullanıcılar doğru firmalara doğru içeriklerle başvuru
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Python 3.10+
 - Nest Asyncio
@@ -36,7 +36,7 @@ Bu sistem sayesinde kullanıcılar doğru firmalara doğru içeriklerle başvuru
 
 ---
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 
 ```
 CareerConnect/
@@ -51,7 +51,7 @@ CareerConnect/
 
 ---
 
-## ⚙️ Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 1. Gerekli Python kütüphanelerini yükleyin:
 ```bash
@@ -93,7 +93,7 @@ Kullanıcı Profili + Şirket Profili
 
 ---
 
-## 🎯 Neden CareerConnect?
+##  Neden CareerConnect?
 
 - AI ile kişiye özel başvuru mektupları
 - Zamandan büyük tasarruf
@@ -103,7 +103,7 @@ Kullanıcı Profili + Şirket Profili
 
 ---
 
-## 📜 Lisans
+##  Lisans
 MIT © Özge Mellaş 2025
 
 ---
